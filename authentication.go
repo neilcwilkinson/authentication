@@ -4,7 +4,7 @@ import(
 	"strings" 
 	"encoding/json"
 	"fmt"
-	"github.com/neilcwilkinson/authentication"
+	"github.com/neilcwilkinson/messaging"
 )
 
 type User struct {
